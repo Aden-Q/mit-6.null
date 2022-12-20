@@ -3,9 +3,8 @@
 
 MIT 6.NULL The Missing Semester of Your CS Education, Spring 2020
 
-+   [Course Website](https://pdos.csail.mit.edu/6.824/)
-+   [Course Notes]()
-+   [Reading Notes]()
++   [Course Website](https://missing.csail.mit.edu/)
++   [Course Notes](https://lyrics-reading.notion.site/MIT-6-NULL-1fb05356c39241d3b6f936f13ed48b52)
 
 ## Overview
 

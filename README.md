@@ -1,5 +1,5 @@
 # MIT-6.NULL
-[![Travis](https://img.shields.io/badge/language-go-green.svg)]() 
+[![Travis](https://img.shields.io/badge/language-shell-green.svg)]() 
 
 MIT 6.NULL The Missing Semester of Your CS Education, Spring 2020
 
